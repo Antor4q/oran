@@ -4,6 +4,7 @@ import "./globals.css";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import SmoothScroll from "@/components/Smoothscroll";
+import Preloader from "@/components/Preloader";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,6 +29,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <body className="min-h-full flex flex-col">
         <SmoothScroll>
+          <Preloader/>
 
         <Navbar />
         {children}

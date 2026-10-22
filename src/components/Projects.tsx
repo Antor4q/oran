@@ -242,7 +242,7 @@ export default function Projects() {
                     className={`project-card group ${cfg.slot}`}
                   >
                     <Link
-                      href={`/projects/${p.id}`}
+                      href={`/`}
                       className="block focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-neutral-900"
                     >
                       <div className="project-mover">

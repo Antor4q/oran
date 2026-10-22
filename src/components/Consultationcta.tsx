@@ -150,7 +150,7 @@ export default function CTA() {
             Let&rsquo;s shape it, from the first sketch to the final styling.
           </h2>
 
-          <OutlineButton href="#projects" tone="light">
+          <OutlineButton href="/" tone="light">
             Tell Us About Your Project
           </OutlineButton>
           </div>

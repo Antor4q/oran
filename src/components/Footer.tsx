@@ -3,20 +3,20 @@ import Image from "next/image";
 
 const PAGES = [
   { label: "Home", href: "/" },
-  { label: "Projects", href: "/projects" },
-  { label: "About", href: "/about" },
-  { label: "Contact", href: "/contact" },
+  { label: "Projects", href: "/" },
+  { label: "About", href: "/" },
+  { label: "Contact", href: "/" },
 ];
 
 const SOCIAL = [
-  { label: "Instagram", href: "https://instagram.com" },
-  { label: "LinkedIn", href: "https://linkedin.com" },
-  { label: "Pinterest", href: "https://pinterest.com" },
+  { label: "Instagram", href: "/" },
+  { label: "LinkedIn", href: "/" },
+  { label: "Pinterest", href: "/" },
 ];
 
 const LEGAL = [
-  { label: "Privacy", href: "/privacy" },
-  { label: "Terms", href: "/terms" },
+  { label: "Privacy", href: "/" },
+  { label: "Terms", href: "/" },
 ];
 
 const LINK =

@@ -21,10 +21,10 @@ const MENU_LINKS = [
 ];
 
 const SOCIAL_LINKS = [
-  { label: "Instagram", href: "https://instagram.com" },
-  { label: "LinkedIn", href: "https://linkedin.com" },
-  { label: "X", href: "https://x.com" },
-  { label: "GitHub", href: "https://github.com" },
+  { label: "Instagram", href: "/" },
+  { label: "LinkedIn", href: "/" },
+  { label: "X", href: "/" },
+
 ];
 
 const EMAIL = "hello@oran.com";

@@ -131,7 +131,7 @@ export default function Hero() {
               From first sketch to final styling, we design interiors around how you live, with
               natural materials, honest detail and a calm sense of order.
             </p>
-            <OutlineButton href="#projects" tone="dark" className="hero-fade">
+            <OutlineButton href="/" tone="dark" className="hero-fade">
               Explore our work
             </OutlineButton>
           </div>
@@ -169,7 +169,7 @@ export default function Hero() {
             <h2 className="max-w-[16ch] text-[clamp(24px,3.2vw,52px)] font-normal leading-[1.05] tracking-[-0.02em] text-white">
               Oak &amp; Olive Kitchen
             </h2>
-            <OutlineButton href="#projects" tone="light">
+            <OutlineButton href="/" tone="light">
               View project
             </OutlineButton>
           </div>
