@@ -5,6 +5,10 @@
   --foreground: #171717;
 }
 
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+.lenis.lenis-stopped { overflow: hidden; }
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
